@@ -1,0 +1,5 @@
+data/*
+embeddings/*
+pretrained_models/
+
+*.pyc
